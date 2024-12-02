@@ -37,9 +37,9 @@
   },
   "Name": "Minecraft Java: PaperMC",
   "Description": "PaperMC is an optimized, high-performance fork of SpigotMC for Minecraft servers. It aims to improve performance and stability by offering additional features, enhanced configuration options, and bug fixes. Known for its robust plugin compatibility and active development community, PaperMC is a preferred choice for server administrators looking to enhance their Minecraft multiplayer experience.",
-  "Author": "info@skyport.dev",
-  "AuthorName": "Skyport Labs",
+  "Author": "jecvaleza@gmail.com",
+  "AuthorName": "WorldCraftLink",
   "Meta": {
-    "Version": "Skyport Images v2"
+    "Version": "Skyport Images v3"
   }
 }
