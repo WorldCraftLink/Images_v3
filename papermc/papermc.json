@@ -18,7 +18,7 @@
         "Path": "server.jar"
       },
       {
-        "Uri": "https://raw.githubusercontent.com/skyportlabs/images_v2/main/spigotmc/server.properties",
+        "Uri": "https://raw.githubusercontent.com/WorldCraftLink/WorldCraftImages_v2/refs/heads/main/spigotmc/server.properties",
         "Path": "server.properties"
       }
     ]
@@ -40,6 +40,6 @@
   "Author": "jecvaleza@gmail.com",
   "AuthorName": "WorldCraftLink",
   "Meta": {
-    "Version": "Skyport Images v3"
+    "Version": "WorldCraftLink Images v3"
   }
 }
