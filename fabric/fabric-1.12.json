@@ -16,9 +16,9 @@
             }
         ]
     },
-    "Name": "Fabric 1.21.3",
+    "Name": "Minecraft Java: Fabric 1.21.3",
     "Description": "Fabric is a lightweight, modular, and high-performance server for Minecraft, known for its speed and the ability to dynamically load mods. It provides a simple way to enhance the Minecraft experience, allowing for extensive customization with a wide variety of compatible mods and tools. Fabric is favored by developers and players for its flexibility and performance, making it a popular choice for Minecraft multiplayer environments.",
-    "Author": "jecvaleza@gmail.com",
+    "Author": "worldcraftlads@gmail.com",
     "AuthorName": "WorldCraftLink",
     "Meta": {
         "Version": "WorldCraftLink Images v3"
